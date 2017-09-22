@@ -1,0 +1,41 @@
+
+
+h1{
+  font-family: 'Anton', sans-serif;
+  font-size: 50px;
+  color: #910101;
+}
+
+h2{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color:#910101;
+}
+body{
+
+background-color: #f77c56;
+
+}
+a:link {
+    text-decoration: none;
+    color: #000000;
+
+}
+
+a:visited {
+    text-decoration: none;
+    color:  #000000;
+
+
+}
+
+a:hover {
+    text-decoration: none;
+    background-color:#ddd5d2;
+    color: #000000;
+}
+
+a:active {
+    text-decoration: none;
+    background-color:#ddd5d2;
+    color: #000000;
+}
